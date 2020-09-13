@@ -1,0 +1,45 @@
+.game-card {
+    height: 100vh;
+    font-family: 'Open Sans', monospace;
+}
+
+#btnRetry {
+    padding: 10px 30px;
+    background-color: darkorange;
+}
+
+body {
+    background-image: url(fon.jpg);
+}
+
+.btn {
+    margin: 7px;
+}
+
+button {
+    box-shadow: 7px 10px 5px 3px dimgray;
+}
+
+.card-header {
+    color: goldenrod;
+    font-size: 3vh;
+}
+
+#text1 {
+    color: whitesmoke;
+    font-size: 3vh;
+}
+
+.panel-footer > button {
+    text-align: end;
+}
+
+#inpmin, #inpmax {
+    text-align: center;
+    width: 100px;
+}
+
+.new_game {
+    text-align: center;
+    
+}
